@@ -1,0 +1,71 @@
+body{
+    background-image:  url(../imagenes/descarga.png);;
+}
+a  {
+    text-decoration: none;
+    color: black;
+}
+
+img{
+    border-radius: 40px;
+    box-shadow: 0 0  20px #494949;
+    height: 500px;
+    width: 500px;
+}
+.cuadro1 p{
+    margin:10px;
+}
+
+.cuadro1  header { 
+text-align: center;
+text-shadow: 50px 10px 80px #494949;
+margin-top: 30px;
+}
+
+.cuadro1{
+    margin-top: 15%;
+    width: 40%;
+    height:300px;
+    background-color:aliceblue;
+    box-shadow: 10px 10px 50px #494949 ;
+    margin-left: 30%;
+}
+
+a {
+    color: black;
+    padding: 0 4px;
+    text-decoration: none;
+    background-color: #494949;
+    height: 30px;
+    border: gray 2px solid;
+    margin-right: 10px;
+    border-radius: 10px;
+    text-align: center;
+    cursor: pointer;
+}
+
+a:hover {
+    background-color: aliceblue;
+    color: black ;
+}
+
+
+.boton1{
+    float: left;
+    width: 200px;
+    height: 40px;
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 100px;
+    
+}
+
+.boton2{
+    float:right;
+    width: 200px;
+    height: 40px;
+    text-align: center;
+    margin-top: 50px;
+    text-transform: capitalize;
+    margin-right: 100px;
+}
